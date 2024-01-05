@@ -57,11 +57,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fener\\Desktop\\pk-ab-main4\\pk-ab-main\\VbApi\\Vb.Base\\Vb.Base.csproj",
+      "projectUniqueName": "C:\\Users\\fener\\Desktop\\Ödev\\VbApi\\Vb.Base\\Vb.Base.csproj",
       "projectName": "Vb.Base",
-      "projectPath": "C:\\Users\\fener\\Desktop\\pk-ab-main4\\pk-ab-main\\VbApi\\Vb.Base\\Vb.Base.csproj",
+      "projectPath": "C:\\Users\\fener\\Desktop\\Ödev\\VbApi\\Vb.Base\\Vb.Base.csproj",
       "packagesPath": "C:\\Users\\fener\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fener\\Desktop\\pk-ab-main4\\pk-ab-main\\VbApi\\Vb.Base\\obj\\",
+      "outputPath": "C:\\Users\\fener\\Desktop\\Ödev\\VbApi\\Vb.Base\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fener\\AppData\\Roaming\\NuGet\\NuGet.Config",

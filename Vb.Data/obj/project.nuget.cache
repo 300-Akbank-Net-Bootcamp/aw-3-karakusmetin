@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Q0nzpr7+Ijy1vXh+fNqlIs0+jG42OrGccNXhakilbrXswEJw+vhnyTgLTe8yxc45hWuN77olTZN2KNuTYlq2Rw==",
+  "dgSpecHash": "nvpjSGkFuT3hPAnwQdLmqThCsS1x66v8xHvl9GGUuh/OFl6wmcC9230IFwEP6wsN0WDpakYp4rfmpUadOGnQ0w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fener\\Desktop\\pk-ab-main4\\pk-ab-main\\VbApi\\Vb.Data\\Vb.Data.csproj",
+  "projectFilePath": "C:\\Users\\fener\\Desktop\\Ödev\\VbApi\\Vb.Data\\Vb.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fener\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\fener\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

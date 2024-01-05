@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HgQDd7v/st/AamfJdvUvfrWwE0VOA+f3BASbwe/hzNpc1iyXmiZ6MwraDygT7MJI8lWgI9l0MVX2GSMyoH00QQ==",
+  "dgSpecHash": "6TnIyzG7iT/qM7jhLJR7gIQpKf1/d0ui2B4yK96UywgWRCD673DjT0PRVIKpniTT+3wIgEbokGNUhxQTAzAcrg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fener\\Desktop\\pk-ab-main4\\pk-ab-main\\VbApi\\Vb.Api\\Vb.Api.csproj",
+  "projectFilePath": "C:\\Users\\fener\\Desktop\\Ödev\\VbApi\\Vb.Api\\Vb.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fener\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\fener\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",

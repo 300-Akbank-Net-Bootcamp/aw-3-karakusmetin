@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fener\\Desktop\\pk-ab-main4\\pk-ab-main\\VbApi\\Vb.Api\\Vb.Api.csproj": {}
+    "C:\\Users\\fener\\Desktop\\Ödev\\VbApi\\Vb.Api\\Vb.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fener\\Desktop\\pk-ab-main4\\pk-ab-main\\VbApi\\Vb.Api\\Vb.Api.csproj": {
+    "C:\\Users\\fener\\Desktop\\Ödev\\VbApi\\Vb.Api\\Vb.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fener\\Desktop\\pk-ab-main4\\pk-ab-main\\VbApi\\Vb.Api\\Vb.Api.csproj",
+        "projectUniqueName": "C:\\Users\\fener\\Desktop\\Ödev\\VbApi\\Vb.Api\\Vb.Api.csproj",
         "projectName": "Vb.Api",
-        "projectPath": "C:\\Users\\fener\\Desktop\\pk-ab-main4\\pk-ab-main\\VbApi\\Vb.Api\\Vb.Api.csproj",
+        "projectPath": "C:\\Users\\fener\\Desktop\\Ödev\\VbApi\\Vb.Api\\Vb.Api.csproj",
         "packagesPath": "C:\\Users\\fener\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fener\\Desktop\\pk-ab-main4\\pk-ab-main\\VbApi\\Vb.Api\\obj\\",
+        "outputPath": "C:\\Users\\fener\\Desktop\\Ödev\\VbApi\\Vb.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fener\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,14 +28,14 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\fener\\Desktop\\pk-ab-main4\\pk-ab-main\\VbApi\\Vb.Business\\Vb.Business.csproj": {
-                "projectPath": "C:\\Users\\fener\\Desktop\\pk-ab-main4\\pk-ab-main\\VbApi\\Vb.Business\\Vb.Business.csproj"
+              "C:\\Users\\fener\\Desktop\\Ödev\\VbApi\\Vb.Business\\Vb.Business.csproj": {
+                "projectPath": "C:\\Users\\fener\\Desktop\\Ödev\\VbApi\\Vb.Business\\Vb.Business.csproj"
               },
-              "C:\\Users\\fener\\Desktop\\pk-ab-main4\\pk-ab-main\\VbApi\\Vb.Data\\Vb.Data.csproj": {
-                "projectPath": "C:\\Users\\fener\\Desktop\\pk-ab-main4\\pk-ab-main\\VbApi\\Vb.Data\\Vb.Data.csproj"
+              "C:\\Users\\fener\\Desktop\\Ödev\\VbApi\\Vb.Data\\Vb.Data.csproj": {
+                "projectPath": "C:\\Users\\fener\\Desktop\\Ödev\\VbApi\\Vb.Data\\Vb.Data.csproj"
               },
-              "C:\\Users\\fener\\Desktop\\pk-ab-main4\\pk-ab-main\\VbApi\\Vb.Schema\\Vb.Schema.csproj": {
-                "projectPath": "C:\\Users\\fener\\Desktop\\pk-ab-main4\\pk-ab-main\\VbApi\\Vb.Schema\\Vb.Schema.csproj"
+              "C:\\Users\\fener\\Desktop\\Ödev\\VbApi\\Vb.Schema\\Vb.Schema.csproj": {
+                "projectPath": "C:\\Users\\fener\\Desktop\\Ödev\\VbApi\\Vb.Schema\\Vb.Schema.csproj"
               }
             }
           }
@@ -110,14 +110,14 @@
         }
       }
     },
-    "C:\\Users\\fener\\Desktop\\pk-ab-main4\\pk-ab-main\\VbApi\\Vb.Base\\Vb.Base.csproj": {
+    "C:\\Users\\fener\\Desktop\\Ödev\\VbApi\\Vb.Base\\Vb.Base.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fener\\Desktop\\pk-ab-main4\\pk-ab-main\\VbApi\\Vb.Base\\Vb.Base.csproj",
+        "projectUniqueName": "C:\\Users\\fener\\Desktop\\Ödev\\VbApi\\Vb.Base\\Vb.Base.csproj",
         "projectName": "Vb.Base",
-        "projectPath": "C:\\Users\\fener\\Desktop\\pk-ab-main4\\pk-ab-main\\VbApi\\Vb.Base\\Vb.Base.csproj",
+        "projectPath": "C:\\Users\\fener\\Desktop\\Ödev\\VbApi\\Vb.Base\\Vb.Base.csproj",
         "packagesPath": "C:\\Users\\fener\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fener\\Desktop\\pk-ab-main4\\pk-ab-main\\VbApi\\Vb.Base\\obj\\",
+        "outputPath": "C:\\Users\\fener\\Desktop\\Ödev\\VbApi\\Vb.Base\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fener\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -171,14 +171,14 @@
         }
       }
     },
-    "C:\\Users\\fener\\Desktop\\pk-ab-main4\\pk-ab-main\\VbApi\\Vb.Business\\Vb.Business.csproj": {
+    "C:\\Users\\fener\\Desktop\\Ödev\\VbApi\\Vb.Business\\Vb.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fener\\Desktop\\pk-ab-main4\\pk-ab-main\\VbApi\\Vb.Business\\Vb.Business.csproj",
+        "projectUniqueName": "C:\\Users\\fener\\Desktop\\Ödev\\VbApi\\Vb.Business\\Vb.Business.csproj",
         "projectName": "Vb.Business",
-        "projectPath": "C:\\Users\\fener\\Desktop\\pk-ab-main4\\pk-ab-main\\VbApi\\Vb.Business\\Vb.Business.csproj",
+        "projectPath": "C:\\Users\\fener\\Desktop\\Ödev\\VbApi\\Vb.Business\\Vb.Business.csproj",
         "packagesPath": "C:\\Users\\fener\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fener\\Desktop\\pk-ab-main4\\pk-ab-main\\VbApi\\Vb.Business\\obj\\",
+        "outputPath": "C:\\Users\\fener\\Desktop\\Ödev\\VbApi\\Vb.Business\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fener\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -195,11 +195,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\fener\\Desktop\\pk-ab-main4\\pk-ab-main\\VbApi\\Vb.Data\\Vb.Data.csproj": {
-                "projectPath": "C:\\Users\\fener\\Desktop\\pk-ab-main4\\pk-ab-main\\VbApi\\Vb.Data\\Vb.Data.csproj"
+              "C:\\Users\\fener\\Desktop\\Ödev\\VbApi\\Vb.Data\\Vb.Data.csproj": {
+                "projectPath": "C:\\Users\\fener\\Desktop\\Ödev\\VbApi\\Vb.Data\\Vb.Data.csproj"
               },
-              "C:\\Users\\fener\\Desktop\\pk-ab-main4\\pk-ab-main\\VbApi\\Vb.Schema\\Vb.Schema.csproj": {
-                "projectPath": "C:\\Users\\fener\\Desktop\\pk-ab-main4\\pk-ab-main\\VbApi\\Vb.Schema\\Vb.Schema.csproj"
+              "C:\\Users\\fener\\Desktop\\Ödev\\VbApi\\Vb.Schema\\Vb.Schema.csproj": {
+                "projectPath": "C:\\Users\\fener\\Desktop\\Ödev\\VbApi\\Vb.Schema\\Vb.Schema.csproj"
               }
             }
           }
@@ -255,14 +255,14 @@
         }
       }
     },
-    "C:\\Users\\fener\\Desktop\\pk-ab-main4\\pk-ab-main\\VbApi\\Vb.Data\\Vb.Data.csproj": {
+    "C:\\Users\\fener\\Desktop\\Ödev\\VbApi\\Vb.Data\\Vb.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fener\\Desktop\\pk-ab-main4\\pk-ab-main\\VbApi\\Vb.Data\\Vb.Data.csproj",
+        "projectUniqueName": "C:\\Users\\fener\\Desktop\\Ödev\\VbApi\\Vb.Data\\Vb.Data.csproj",
         "projectName": "Vb.Data",
-        "projectPath": "C:\\Users\\fener\\Desktop\\pk-ab-main4\\pk-ab-main\\VbApi\\Vb.Data\\Vb.Data.csproj",
+        "projectPath": "C:\\Users\\fener\\Desktop\\Ödev\\VbApi\\Vb.Data\\Vb.Data.csproj",
         "packagesPath": "C:\\Users\\fener\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fener\\Desktop\\pk-ab-main4\\pk-ab-main\\VbApi\\Vb.Data\\obj\\",
+        "outputPath": "C:\\Users\\fener\\Desktop\\Ödev\\VbApi\\Vb.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fener\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -279,8 +279,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\fener\\Desktop\\pk-ab-main4\\pk-ab-main\\VbApi\\Vb.Base\\Vb.Base.csproj": {
-                "projectPath": "C:\\Users\\fener\\Desktop\\pk-ab-main4\\pk-ab-main\\VbApi\\Vb.Base\\Vb.Base.csproj"
+              "C:\\Users\\fener\\Desktop\\Ödev\\VbApi\\Vb.Base\\Vb.Base.csproj": {
+                "projectPath": "C:\\Users\\fener\\Desktop\\Ödev\\VbApi\\Vb.Base\\Vb.Base.csproj"
               }
             }
           }
@@ -340,14 +340,14 @@
         }
       }
     },
-    "C:\\Users\\fener\\Desktop\\pk-ab-main4\\pk-ab-main\\VbApi\\Vb.Schema\\Vb.Schema.csproj": {
+    "C:\\Users\\fener\\Desktop\\Ödev\\VbApi\\Vb.Schema\\Vb.Schema.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fener\\Desktop\\pk-ab-main4\\pk-ab-main\\VbApi\\Vb.Schema\\Vb.Schema.csproj",
+        "projectUniqueName": "C:\\Users\\fener\\Desktop\\Ödev\\VbApi\\Vb.Schema\\Vb.Schema.csproj",
         "projectName": "Vb.Schema",
-        "projectPath": "C:\\Users\\fener\\Desktop\\pk-ab-main4\\pk-ab-main\\VbApi\\Vb.Schema\\Vb.Schema.csproj",
+        "projectPath": "C:\\Users\\fener\\Desktop\\Ödev\\VbApi\\Vb.Schema\\Vb.Schema.csproj",
         "packagesPath": "C:\\Users\\fener\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fener\\Desktop\\pk-ab-main4\\pk-ab-main\\VbApi\\Vb.Schema\\obj\\",
+        "outputPath": "C:\\Users\\fener\\Desktop\\Ödev\\VbApi\\Vb.Schema\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fener\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -364,8 +364,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\fener\\Desktop\\pk-ab-main4\\pk-ab-main\\VbApi\\Vb.Base\\Vb.Base.csproj": {
-                "projectPath": "C:\\Users\\fener\\Desktop\\pk-ab-main4\\pk-ab-main\\VbApi\\Vb.Base\\Vb.Base.csproj"
+              "C:\\Users\\fener\\Desktop\\Ödev\\VbApi\\Vb.Base\\Vb.Base.csproj": {
+                "projectPath": "C:\\Users\\fener\\Desktop\\Ödev\\VbApi\\Vb.Base\\Vb.Base.csproj"
               }
             }
           }
