@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UWWWW9lKibUKKII2IQgA9Svm1sGbcqEBkTqscLeVBwx4bhCY3FgHCkJE6dIK7ljgsM+cB+JrirSBg93y309+UA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fener\\Desktop\\pk-ab-main4\\pk-ab-main\\VbApi\\Vb.Base\\Vb.Base.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fener\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+C:\Users\fener\Desktop\pk-ab-main4\pk-ab-main\VbApi\Vb.Base\bin\Debug\net7.0\Vb.Base.deps.json
+C:\Users\fener\Desktop\pk-ab-main4\pk-ab-main\VbApi\Vb.Base\bin\Debug\net7.0\Vb.Base.dll
+C:\Users\fener\Desktop\pk-ab-main4\pk-ab-main\VbApi\Vb.Base\bin\Debug\net7.0\Vb.Base.pdb
+C:\Users\fener\Desktop\pk-ab-main4\pk-ab-main\VbApi\Vb.Base\obj\Debug\net7.0\Vb.Base.csproj.AssemblyReference.cache
+C:\Users\fener\Desktop\pk-ab-main4\pk-ab-main\VbApi\Vb.Base\obj\Debug\net7.0\Vb.Base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fener\Desktop\pk-ab-main4\pk-ab-main\VbApi\Vb.Base\obj\Debug\net7.0\Vb.Base.AssemblyInfoInputs.cache
+C:\Users\fener\Desktop\pk-ab-main4\pk-ab-main\VbApi\Vb.Base\obj\Debug\net7.0\Vb.Base.AssemblyInfo.cs
+C:\Users\fener\Desktop\pk-ab-main4\pk-ab-main\VbApi\Vb.Base\obj\Debug\net7.0\Vb.Base.csproj.CoreCompileInputs.cache
+C:\Users\fener\Desktop\pk-ab-main4\pk-ab-main\VbApi\Vb.Base\obj\Debug\net7.0\Vb.Base.dll
+C:\Users\fener\Desktop\pk-ab-main4\pk-ab-main\VbApi\Vb.Base\obj\Debug\net7.0\refint\Vb.Base.dll
+C:\Users\fener\Desktop\pk-ab-main4\pk-ab-main\VbApi\Vb.Base\obj\Debug\net7.0\Vb.Base.pdb
+C:\Users\fener\Desktop\pk-ab-main4\pk-ab-main\VbApi\Vb.Base\obj\Debug\net7.0\ref\Vb.Base.dll

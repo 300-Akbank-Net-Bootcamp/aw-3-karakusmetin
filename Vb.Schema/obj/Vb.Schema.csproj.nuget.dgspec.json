@@ -1,0 +1,128 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\fener\\Desktop\\pk-ab-main4\\pk-ab-main\\VbApi\\Vb.Schema\\Vb.Schema.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\fener\\Desktop\\pk-ab-main4\\pk-ab-main\\VbApi\\Vb.Base\\Vb.Base.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\fener\\Desktop\\pk-ab-main4\\pk-ab-main\\VbApi\\Vb.Base\\Vb.Base.csproj",
+        "projectName": "Vb.Base",
+        "projectPath": "C:\\Users\\fener\\Desktop\\pk-ab-main4\\pk-ab-main\\VbApi\\Vb.Base\\Vb.Base.csproj",
+        "packagesPath": "C:\\Users\\fener\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fener\\Desktop\\pk-ab-main4\\pk-ab-main\\VbApi\\Vb.Base\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\fener\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\fener\\Desktop\\pk-ab-main4\\pk-ab-main\\VbApi\\Vb.Schema\\Vb.Schema.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\fener\\Desktop\\pk-ab-main4\\pk-ab-main\\VbApi\\Vb.Schema\\Vb.Schema.csproj",
+        "projectName": "Vb.Schema",
+        "projectPath": "C:\\Users\\fener\\Desktop\\pk-ab-main4\\pk-ab-main\\VbApi\\Vb.Schema\\Vb.Schema.csproj",
+        "packagesPath": "C:\\Users\\fener\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fener\\Desktop\\pk-ab-main4\\pk-ab-main\\VbApi\\Vb.Schema\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\fener\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\fener\\Desktop\\pk-ab-main4\\pk-ab-main\\VbApi\\Vb.Base\\Vb.Base.csproj": {
+                "projectPath": "C:\\Users\\fener\\Desktop\\pk-ab-main4\\pk-ab-main\\VbApi\\Vb.Base\\Vb.Base.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
